@@ -27,7 +27,6 @@ $RECYCLE.BIN/
 .DS_Store
 .AppleDouble
 .LSOverride
-.paket
 .fake
 packages
 bin
