@@ -1,0 +1,12 @@
+body {
+    background-color: #000;
+    height: 600px;
+    width: 800px;
+    overflow: hidden;
+}
+
+.clock {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+}
